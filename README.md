@@ -73,3 +73,25 @@ Whisper (speech recognition)
 LLM (GPT / open-source)
 FAISS (for RAG)
 React / Streamlit (UI)
+
+⭐ Advanced Features
+🔥 1. RAG-based Answer Checking
+Store:
+common interview questions
+ideal answers
+Compare user answer vs best answer
+🔥 2. Latency Optimization
+Stream partial responses
+Don’t wait for full sentence
+🔥 3. Session Summary
+
+After interview:
+
+strengths
+weaknesses
+improvement tips
+🔥 4. Mock Interview Mode
+
+System asks questions like an interviewer
+
+Project Structure
