@@ -3,3 +3,7 @@ uvicorn
 openai
 streamlit
 python-dotenv
+
+whisper
+sounddevice
+numpy
